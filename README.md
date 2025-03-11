@@ -13,10 +13,8 @@ Emscripten was used to compile the C++ code and display it on an HTML page. For 
   </tr>
   <tr>
     <td>Tetris</td>
-    <td>
 
 https://github.com/user-attachments/assets/56e1b272-2524-49d9-aaca-9246fe04b89d
       
-    </td>
   </tr>
   </table>
