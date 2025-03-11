@@ -17,3 +17,27 @@ https://github.com/user-attachments/assets/183bdec9-d669-4245-8201-f8f2ec666133
 https://github.com/user-attachments/assets/915e5694-bf71-4fc7-a32c-6add162f3bd5
 
 <h2>Vive la France</h2>
+
+https://github.com/user-attachments/assets/ac880042-42ba-4db9-a9bf-c6b45e6c8bde
+
+<h2>Papiyon</h2>
+
+https://github.com/user-attachments/assets/5594aa85-3d7c-425d-8fe4-6724e5aee5bf
+
+<h2>Afro Pink</h2>
+
+https://github.com/user-attachments/assets/e3d44268-e4b0-4dfb-9516-184b05ff4584
+
+<h2>Beauty</h2>
+
+https://github.com/user-attachments/assets/ab5faf3b-74c6-473e-b977-d843c7f8f538
+
+<h2>Black Magic</h2>
+
+https://github.com/user-attachments/assets/e9304a54-f6ac-4ce5-9cc0-0a301d7fbab1
+
+<h2>Darth Vader</h2>
+
+https://github.com/user-attachments/assets/0e5db369-ff14-4f92-af8d-e85457d73cb6
+
+
