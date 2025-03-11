@@ -14,3 +14,6 @@ https://github.com/user-attachments/assets/183bdec9-d669-4245-8201-f8f2ec666133
 
 <h2>Ghost in the Shell</h2>
 
+https://github.com/user-attachments/assets/915e5694-bf71-4fc7-a32c-6add162f3bd5
+
+<h2>Vive la France</h2>
