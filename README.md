@@ -13,6 +13,6 @@ Emscripten was used to compile the C++ code and display it on an HTML page. For 
   </tr>
   <tr>
     <td>Tetris</td>
-    <td><a href="https://jallemand971.github.io/Projects_in_C/BMI/BMI.html">https://jallemand971.github.io/Projects_in_C/BMI/BMI.html</a></td>
+    <td>[![Watch the video](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Typical_Tetris_Game.svg/1200px-Typical_Tetris_Game.svg.png)]([https://www.youtube.com/watch?v=ID_DE_TA_VIDEO](https://youtube.com/shorts/aRP1G-U_qw8?feature=share))
+</td>
   </tr>
-
