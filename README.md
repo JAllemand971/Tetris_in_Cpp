@@ -16,7 +16,11 @@ Emscripten was used to compile the C++ code and display it on an HTML page. For 
     <td>   
 
       
-https://github.com/user-attachments/assets/2b2888b4-6c54-4d0c-af13-b07fa0fb389b
+
+
+https://github.com/user-attachments/assets/4d2766ad-a979-47ea-a645-3f096db3e677
+
+
 
 
 
