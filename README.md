@@ -8,8 +8,8 @@ Emscripten was sometimes used to compile the C++ code and display it on an HTML 
 
   <table align="center">
   <tr>
+    <th>Titre</th>
     <th>Description</th>
-    <th>Lien</th>
   </tr>
   <tr>
     <td>Tetris</td>
