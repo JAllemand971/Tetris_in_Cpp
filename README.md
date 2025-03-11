@@ -14,8 +14,6 @@ Emscripten was used to compile the C++ code and display it on an HTML page. For 
   <tr>
     <td>Tetris</td>
     <td>
-  <a href="https://youtube.com/shorts/aRP1G-U_qw8?feature=share">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Typical_Tetris_Game.svg/1200px-Typical_Tetris_Game.svg.png" alt="Watch the video" width="200">
-  </a>
+  [Watch the video](https://github.com/JAllemand971/Projects_in_Cpp/blob/fcc6a82bcbf32730947fe4379e6b569d1a007a2b/Recording%202025-03-10%20202704.mp4)
 </td>
   </tr>
