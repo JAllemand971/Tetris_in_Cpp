@@ -26,9 +26,6 @@ https://github.com/user-attachments/assets/56e1b272-2524-49d9-aaca-9246fe04b89d
 - Applies **gravity**, **collision**, **locking**, and **line clear** rules.
 - Handles **piece rotation** and **horizontal movement** with keyboard.
 - Tracks **score** and **speed** progression (level) as lines are cleared.  
-- Includes a **demo recording** in the repo (see below). :contentReference[oaicite:1]{index=1}
-
-> A `Tetris/` folder exists in the repository; see the code there for exact file names and key bindings. :contentReference[oaicite:2]{index=2}
 
 ---
 
@@ -54,10 +51,6 @@ https://github.com/user-attachments/assets/56e1b272-2524-49d9-aaca-9246fe04b89d
 5. **Game over**
    - If a new piece collides at spawn, the game ends.
 
-> Rotation can follow a simple matrix rotation or SRS-like wall kicks. Check your `Tetris/` sources for the exact policy.
-
----
-
-## Repository structure
+> Rotation can follow a simple matrix rotation or SRS-like wall kicks.
 
 
